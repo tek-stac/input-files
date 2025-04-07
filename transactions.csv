@@ -1,0 +1,204 @@
+TXN0001,CUST2824,Allison Hill,19,Phoenix,20-06-2024,,Debit Card
+TXN0002,CUST2679,Brian Yang,61,Seattle,23-10-2024,96.07,UPI
+TXN0003,CUST1520,Javier Johnson,19,Los Angeles,18-06-2024,226.45,Net Banking
+TXN0004,CUST1434,Lance Hoffman,53,Houston,29-12-2024,718.86,Cash
+TXN0005,CUST9928,Kimberly Robinson,44,Houston,09-11-2024,454.72,PayPal
+TXN0006,CUST1106,Sean Blake,66,Chicago,27-05-2024,701.16,PayPal
+TXN0007,CUST5552,Gina Moore,27,Houston,16-01-2025,957.64,PayPal
+TXN0008,CUST2674,Brandon Davis,23,Miami,18-02-2025,105.75,PayPal
+TXN0009,CUST5333,Dennis Williams,69,New York,20-09-2024,732.43,Net Banking
+TXN0010,CUST3045,Valerie Gray,42,Los Angeles,26-10-2024,556.52,Cash
+TXN0011,CUST6925,Mark Mcclure,54,Houston,13-08-2024,,Credit Card
+TXN0012,CUST4733,Michele Williams,67,Phoenix,22-06-2024,985.37,Debit Card
+TXN0013,CUST2654,Victoria Wyatt,42,Phoenix,25-02-2025,458.88,PayPal
+TXN0014,CUST3664,Donald Reid,41,San Francisco,14-08-2024,217.41,PayPal
+TXN0015,CUST2169,Henry Santiago,56,Chicago,23-12-2024,538.8,Debit Card
+TXN0016,CUST3677,Maria Lynch,47,Miami,31-05-2024,277.25,Cash
+TXN0017,CUST4598,Danielle Ford,61,San Francisco,08-07-2024,844.42,Credit Card
+TXN0018,CUST4752,Margaret Hawkins DDS,70,New York,16-02-2025,807.0,UPI
+TXN0019,CUST5386,Amy Underwood,22,Houston,01-02-2025,914.0,Net Banking
+TXN0020,CUST6155,Derek Clark,31,Dallas,01-11-2024,401.68,Cash
+TXN0021,CUST8517,Emily Rios,27,Phoenix,26-08-2024,,Cash
+TXN0022,CUST9830,Maria Thomas,34,Boston,19-05-2024,434.15,Net Banking
+TXN0023,CUST7543,Justin Baker,41,Houston,08-11-2024,997.35,Debit Card
+TXN0024,CUST9348,Kevin Cox,49,Los Angeles,18-05-2024,758.22,Credit Card
+TXN0025,CUST3504,Ann Williams,58,Chicago,07-05-2024,794.16,UPI
+TXN0026,CUST2040,Christopher Becker,42,Miami,12-11-2024,599.93,UPI
+TXN0027,CUST9669,James Ferrell,34,Seattle,17-10-2024,862.17,Credit Card
+TXN0028,CUST2876,Juan Dunlap,61,Seattle,15-12-2024,753.37,Cash
+TXN0029,CUST6573,Melanie Herrera,25,Phoenix,07-07-2024,440.42,UPI
+TXN0030,CUST1053,Gina Carter,64,Phoenix,26-05-2024,972.17,Debit Card
+TXN0031,CUST9317,Troy Liu,24,Phoenix,06-07-2024,,Net Banking
+TXN0032,CUST4258,Pamela Romero,27,San Francisco,06-05-2024,764.89,Net Banking
+TXN0033,CUST9689,Elizabeth Fowler,18,Boston,17-11-2024,330.91,Credit Card
+TXN0034,CUST2832,James Martin,41,Phoenix,22-01-2025,247.06,Debit Card
+TXN0035,CUST2290,Tamara George,23,Dallas,01-10-2024,817.86,Net Banking
+TXN0036,CUST3060,Timothy Koch,26,Dallas,11-02-2025,947.38,Debit Card
+TXN0037,CUST5342,Cynthia Allen,51,Boston,01-11-2024,428.91,Debit Card
+TXN0038,CUST9835,Angelica Tucker,66,Houston,21-04-2024,715.82,UPI
+TXN0039,CUST7118,Kim Martinez,46,Seattle,07-12-2024,456.97,Debit Card
+TXN0040,CUST4681,Joshua Baker,22,San Francisco,27-02-2025,30.82,Net Banking
+TXN0041,CUST4770,Tracey Hickman,55,Houston,13-01-2025,,Cash
+TXN0042,CUST1964,Christina Collins,32,Los Angeles,11-12-2024,906.37,PayPal
+TXN0043,CUST2160,Jessica Holmes,50,Houston,11-05-2024,285.69,UPI
+TXN0044,CUST4510,Austin Smith,52,Chicago,27-10-2024,726.12,Net Banking
+TXN0045,CUST8744,Daniel Jones,33,Dallas,26-11-2024,809.42,Debit Card
+TXN0046,CUST2545,Austin Johnson,24,Miami,01-08-2024,360.75,UPI
+TXN0047,CUST8651,David Caldwell,64,New York,17-06-2024,676.63,Cash
+TXN0048,CUST2612,Miranda Khan,21,Miami,04-11-2024,730.93,Credit Card
+TXN0049,CUST5073,Richard Aguirre,30,Houston,07-06-2024,540.92,Debit Card
+TXN0050,CUST7912,Matthew Gomez,29,Phoenix,01-09-2024,468.0,Credit Card
+TXN0051,CUST8260,Nicholas Nunez,69,Seattle,01-12-2024,,Cash
+TXN0052,CUST9856,James Morgan,18,Los Angeles,23-02-2025,927.1,Debit Card
+TXN0053,CUST3724,Corey Herrera,44,Dallas,19-05-2024,486.54,UPI
+TXN0054,CUST1960,Donald Wright,28,Miami,19-03-2025,12.13,UPI
+TXN0055,CUST5345,Robert Chase,68,Dallas,03-05-2024,292.4,Cash
+TXN0056,CUST8973,Zachary Huff,27,Houston,01-05-2024,303.74,Credit Card
+TXN0057,CUST9883,Sarah Martin,21,San Francisco,30-09-2024,66.59,Net Banking
+TXN0058,CUST8811,Dr. Steven Martin,50,Seattle,26-03-2024,165.86,Net Banking
+TXN0059,CUST2312,Mrs. Rachel Gibson,29,Los Angeles,06-09-2024,599.08,Cash
+TXN0060,CUST4853,Monica Logan,43,Los Angeles,08-12-2024,942.18,Net Banking
+TXN0061,CUST5033,Brittney Phillips,55,Boston,17-04-2024,,Credit Card
+TXN0062,CUST7868,Kimberly Adkins,60,Boston,17-04-2024,569.57,PayPal
+TXN0063,CUST5272,John Calhoun,31,San Francisco,18-10-2024,246.3,UPI
+TXN0064,CUST3144,Tyler Miller,60,Phoenix,06-06-2024,462.65,Credit Card
+TXN0065,CUST1152,Barry Hensley,47,Boston,29-08-2024,998.47,Credit Card
+TXN0066,CUST2200,Steve Sanchez,52,Houston,11-11-2024,510.83,Debit Card
+TXN0067,CUST6718,Bradley Sandoval,22,Houston,31-10-2024,375.83,Debit Card
+TXN0068,CUST8179,Taylor Harris,52,Phoenix,29-12-2024,615.56,Cash
+TXN0069,CUST9666,Derek Anderson,18,Seattle,01-12-2024,306.38,Cash
+TXN0070,CUST2697,Eugene Walton,26,Phoenix,23-04-2024,124.27,Credit Card
+TXN0071,CUST3546,Marc Hart,35,Phoenix,03-05-2024,,Cash
+TXN0072,CUST6617,Daniel Baker,31,Phoenix,23-03-2025,510.35,PayPal
+TXN0073,CUST1832,Benjamin Sanchez,23,Miami,14-07-2024,831.05,Credit Card
+TXN0074,CUST1058,Roy Warner,39,Chicago,18-11-2024,640.74,PayPal
+TXN0075,CUST3647,Dr. Kendra Contreras,65,Dallas,27-10-2024,556.16,UPI
+TXN0076,CUST1158,Matthew Mcmillan,25,Los Angeles,17-05-2024,945.6,Cash
+TXN0077,CUST3442,Steve Newton,52,New York,25-05-2024,836.25,Net Banking
+TXN0078,CUST3426,Larry Robbins,45,Chicago,13-06-2024,51.41,PayPal
+TXN0079,CUST1653,Sarah Wagner,40,Houston,01-07-2024,685.25,Cash
+TXN0080,CUST2684,Sarah Davis,40,Seattle,06-09-2024,885.29,UPI
+TXN0081,CUST3532,Amanda Cook,33,Chicago,15-05-2024,,Debit Card
+TXN0082,CUST7755,Deborah Figueroa,19,Chicago,26-10-2024,739.2,PayPal
+TXN0083,CUST7745,Kristina Rodriguez,69,Houston,03-03-2025,274.14,Cash
+TXN0084,CUST2771,Brittany Johnson,42,New York,16-08-2024,860.01,Debit Card
+TXN0085,CUST4269,Brittany Anderson,70,Dallas,23-07-2024,356.16,Debit Card
+TXN0086,CUST4652,Timothy Stanton,19,Houston,10-04-2024,404.48,PayPal
+TXN0087,CUST2137,Christine Wright,67,Phoenix,04-05-2024,357.63,Net Banking
+TXN0088,CUST7548,Justin Baxter,61,Seattle,22-11-2024,337.84,Credit Card
+TXN0089,CUST2889,Tammy Young,34,Chicago,28-05-2024,584.78,PayPal
+TXN0090,CUST1626,Rita Keith,24,Boston,04-04-2024,440.22,Cash
+TXN0091,CUST6139,Tim Patton,45,Boston,01-09-2024,,Credit Card
+TXN0092,CUST7311,Sharon Cochran,54,Houston,07-07-2024,262.18,Cash
+TXN0093,CUST8144,Michael Reyes,18,Seattle,10-04-2024,926.32,Net Banking
+TXN0094,CUST4228,Courtney Velasquez,41,Miami,20-09-2024,79.27,Cash
+TXN0095,CUST6409,Robert Savage,57,San Francisco,20-06-2024,666.75,Credit Card
+TXN0096,CUST5920,Corey Murphy,50,Phoenix,24-02-2025,670.22,PayPal
+TXN0097,CUST7592,Raymond Bell,62,Phoenix,09-10-2024,558.87,Debit Card
+TXN0098,CUST7888,William Herrera,60,Miami,25-03-2025,680.54,Debit Card
+TXN0099,CUST5930,Shawn Green,43,Seattle,06-11-2024,835.39,PayPal
+TXN0100,CUST5700,Deborah Rodriguez,31,Miami,10-09-2024,787.9,Net Banking
+TXN0101,CUST6279,Richard Graham,47,Dallas,10-10-2024,,Debit Card
+TXN0102,CUST9375,Steven Lee,48,Chicago,12-04-2024,662.26,PayPal
+TXN0103,CUST9445,April Frost,60,Boston,21-10-2024,341.84,Debit Card
+TXN0104,CUST6085,Teresa Mclaughlin,32,Houston,10-06-2024,155.88,Credit Card
+TXN0105,CUST5011,Benjamin Beck,48,Boston,01-08-2024,851.24,Credit Card
+TXN0106,CUST8461,Mary Martinez,44,Boston,10-03-2025,202.49,Cash
+TXN0107,CUST7291,Eric Ortiz,49,Miami,29-08-2024,251.54,Cash
+TXN0108,CUST1090,Kristen Lee,66,Los Angeles,09-12-2024,780.64,Debit Card
+TXN0109,CUST3881,Megan Orr,69,Seattle,20-11-2024,469.9,Net Banking
+TXN0110,CUST5082,Jennifer Bass,25,Dallas,22-07-2024,142.01,UPI
+TXN0111,CUST9702,Jeffrey Carpenter,53,Boston,05-12-2024,,UPI
+TXN0112,CUST9270,Jeremy Lowe,45,Seattle,10-10-2024,451.45,Debit Card
+TXN0113,CUST8777,Steven Flynn,46,Phoenix,30-05-2024,754.26,Cash
+TXN0114,CUST5543,Diane Beck,67,Seattle,21-11-2024,489.75,Debit Card
+TXN0115,CUST5499,Robert Potter,46,Los Angeles,12-12-2024,716.41,Debit Card
+TXN0116,CUST5451,Robert Hernandez,39,San Francisco,12-04-2024,894.1,Credit Card
+TXN0117,CUST3267,John Atkinson,27,Houston,23-04-2024,389.2,Debit Card
+TXN0118,CUST4505,Stephen Johnston,22,Miami,29-12-2024,413.52,Net Banking
+TXN0119,CUST8633,Kathleen Sanchez,44,New York,05-12-2024,214.77,UPI
+TXN0120,CUST7381,Stephanie Dalton,67,Boston,04-03-2025,946.6,Credit Card
+TXN0121,CUST7232,Jeffery Thompson,48,New York,21-12-2024,,PayPal
+TXN0122,CUST7389,Amber Wright,44,Seattle,18-02-2025,750.04,Net Banking
+TXN0123,CUST4613,Casey Marshall,49,Houston,18-10-2024,280.21,UPI
+TXN0124,CUST1475,Linda Dodson DVM,42,San Francisco,18-11-2024,672.18,UPI
+TXN0125,CUST3704,Stephanie Simmons,47,Chicago,13-03-2025,980.91,Net Banking
+TXN0126,CUST1441,Stephanie Manning,43,Boston,26-09-2024,568.75,Credit Card
+TXN0127,CUST2375,Paul Larsen,59,Miami,11-07-2024,144.34,UPI
+TXN0128,CUST3977,Kelly Sims,21,Phoenix,10-07-2024,385.31,Debit Card
+TXN0129,CUST8449,Micheal Young,38,San Francisco,03-08-2024,763.62,UPI
+TXN0130,CUST5558,Joshua Taylor,66,Miami,23-06-2024,259.75,Credit Card
+TXN0131,CUST8705,Christian Lewis,19,Seattle,03-09-2024,,PayPal
+TXN0132,CUST4673,Joshua Perry,59,Los Angeles,14-06-2024,783.42,Cash
+TXN0133,CUST1659,Jean Carrillo,66,New York,21-12-2024,950.12,Debit Card
+TXN0134,CUST1333,Spencer Johnston,57,Chicago,27-09-2024,246.16,UPI
+TXN0135,CUST2874,Guy Molina,54,Houston,20-02-2025,470.38,PayPal
+TXN0136,CUST7043,Sara Medina,28,Boston,05-01-2025,611.18,Cash
+TXN0137,CUST2876,Lindsey Walker,67,Chicago,19-06-2024,965.07,Credit Card
+TXN0138,CUST1420,John Price,37,Boston,10-12-2024,680.57,UPI
+TXN0139,CUST7498,Jennifer Martin,63,Houston,23-09-2024,85.24,Cash
+TXN0140,CUST4978,Veronica Ferguson,24,Phoenix,13-03-2025,851.79,Net Banking
+TXN0141,CUST2983,Justin Johnson,68,Boston,30-11-2024,,PayPal
+TXN0142,CUST9728,Sean White,45,San Francisco,05-07-2024,78.27,Cash
+TXN0143,CUST6590,Daniel Murphy,18,Miami,15-01-2025,824.11,Credit Card
+TXN0144,CUST8102,Diana Bean,41,Dallas,05-09-2024,710.24,UPI
+TXN0145,CUST3885,Bradley Smith,64,Seattle,21-10-2024,965.82,PayPal
+TXN0146,CUST9817,Trevor Walker,67,Dallas,21-04-2024,470.23,Cash
+TXN0147,CUST5397,Marissa Webster,38,Houston,30-06-2024,832.42,Credit Card
+TXN0148,CUST5569,Alex Hernandez,46,Houston,14-05-2024,752.97,Net Banking
+TXN0149,CUST7209,Brian Gould,39,New York,22-09-2024,499.36,PayPal
+TXN0150,CUST3979,Pamela Jackson,49,Houston,16-11-2024,361.28,PayPal
+TXN0151,CUST6576,Michelle Strickland,35,Boston,28-05-2024,,PayPal
+TXN0152,CUST1166,Ashley Johnson,51,Houston,25-07-2024,94.76,Cash
+TXN0153,CUST7658,Susan Brooks,49,Seattle,26-03-2025,760.58,Cash
+TXN0154,CUST8800,Angela Vaughn,59,Dallas,24-11-2024,453.69,Credit Card
+TXN0155,CUST2524,Michael Turner,36,Houston,16-12-2024,410.36,Debit Card
+TXN0156,CUST6016,Barbara Riggs,60,Boston,23-01-2025,375.33,Net Banking
+TXN0157,CUST9698,Joseph Stanley,40,Miami,21-04-2024,996.67,Net Banking
+TXN0158,CUST6419,Gloria Atkinson,40,Dallas,08-02-2025,278.21,PayPal
+TXN0159,CUST4777,Jeffrey Cox PhD,25,Houston,20-09-2024,322.39,Cash
+TXN0160,CUST9779,Jessica Gross,66,Chicago,03-12-2024,199.63,Cash
+TXN0161,CUST8933,Robert Medina,35,Boston,29-09-2024,,Net Banking
+TXN0162,CUST5636,Roger Vargas,24,Houston,29-07-2024,303.28,PayPal
+TXN0163,CUST3939,Sandra Miller,37,New York,03-03-2025,710.94,Debit Card
+TXN0164,CUST5494,Paul Hudson,20,New York,10-12-2024,557.83,Cash
+TXN0165,CUST3068,Allen Rosales,58,Dallas,04-06-2024,111.56,Credit Card
+TXN0166,CUST5658,Mr. David Ramirez,48,Dallas,12-11-2024,446.06,Debit Card
+TXN0167,CUST1841,Desiree Smith,34,Dallas,08-06-2024,122.95,Credit Card
+TXN0168,CUST7565,Nathan Freeman,49,Los Angeles,14-01-2025,581.25,Cash
+TXN0169,CUST1878,John Joseph,27,Chicago,16-09-2024,813.03,PayPal
+TXN0170,CUST2395,Anna Walker,33,Los Angeles,19-12-2024,562.49,UPI
+TXN0171,CUST4697,Matthew Wood,67,Seattle,26-10-2024,,UPI
+TXN0172,CUST5871,Jessica Reese,55,Miami,01-08-2024,312.33,Net Banking
+TXN0173,CUST1986,Jesse Parker,57,Los Angeles,23-06-2024,948.11,Debit Card
+TXN0174,CUST4457,Corey Wilson,34,Los Angeles,20-10-2024,165.49,Debit Card
+TXN0175,CUST2229,Melissa Lee,28,New York,06-01-2025,414.43,Cash
+TXN0176,CUST8699,Dr. William Warren,36,New York,13-07-2024,239.16,Cash
+TXN0177,CUST5632,Dr. Elizabeth Ward,62,Dallas,21-07-2024,80.47,Debit Card
+TXN0178,CUST5334,Joseph Hill,68,Boston,16-04-2024,664.57,Debit Card
+TXN0179,CUST7965,Melissa Martinez,25,Seattle,26-02-2025,232.56,Debit Card
+TXN0180,CUST5352,Ashley Smith,70,Chicago,14-07-2024,80.7,Debit Card
+TXN0181,CUST6039,Jeremiah Lopez,56,Boston,14-04-2024,,UPI
+TXN0182,CUST3037,Scott Wilson,47,Phoenix,20-04-2024,702.74,PayPal
+TXN0183,CUST9199,Benjamin Soto,52,Dallas,15-04-2024,443.38,Net Banking
+TXN0184,CUST1653,Robert Avery,45,San Francisco,28-04-2024,607.68,Credit Card
+TXN0185,CUST2496,Bailey Duran DDS,32,Boston,27-01-2025,591.25,Credit Card
+TXN0186,CUST5415,Patricia James,54,New York,13-03-2025,765.48,Debit Card
+TXN0187,CUST8708,Scott Branch,51,Dallas,22-07-2024,916.91,Debit Card
+TXN0188,CUST8141,Amy Choi,58,Dallas,03-05-2024,969.36,UPI
+TXN0189,CUST6700,Christine Clark,44,San Francisco,07-12-2024,327.85,Credit Card
+TXN0190,CUST3634,David Arnold,39,Miami,25-05-2024,696.74,PayPal
+TXN0191,CUST7561,Jerry Wheeler,70,Seattle,17-07-2024,,Credit Card
+TXN0192,CUST6153,Dwayne Campbell,34,San Francisco,22-02-2025,124.76,UPI
+TXN0193,CUST9431,Michael Bradshaw,70,New York,25-01-2025,661.08,Net Banking
+TXN0194,CUST8569,Leah Lara,44,New York,10-06-2024,195.71,PayPal
+TXN0195,CUST9167,Joshua Holland,58,Dallas,13-03-2025,762.39,Debit Card
+TXN0196,CUST5375,Charles Brown,53,Chicago,27-01-2025,928.4,UPI
+TXN0197,CUST8941,Paul Carroll,25,New York,16-07-2024,973.42,Net Banking
+TXN0198,CUST4920,John Torres,63,Chicago,29-08-2024,317.64,Credit Card
+TXN0199,CUST7684,Kathryn Snyder,23,Houston,26-04-2024,992.33,Credit Card
+TXN0200,CUST8560,Stacy Navarro,25,Chicago,15-11-2024,503.39,Cash
+TXN0010,CUST3045,Valerie Gray,42,Los Angeles,26-10-2024,556.52,Cash
+TXN0134,CUST1333,Spencer Johnston,57,Chicago,27-09-2024,246.16,UPI
+TXN0042,CUST1964,Christina Collins,32,Los Angeles,11-12-2024,906.37,PayPal
+TXN0054,CUST1960,Donald Wright,28,Miami,19-03-2025,12.13,UPI
