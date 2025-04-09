@@ -1,0 +1,21 @@
+product_id,product_name,category
+p1,SuperPhone,Electronics
+p2,SmartWatch,Electronics
+p3,UltraTab,Electronics
+p4,PowerBank 10000,Accessories
+p5,NoiseCancelling Headphones,Accessories
+p6,Wireless Charger,Accessories
+p7,4K Action Camera,Electronics
+p8,Fitness Band,Electronics
+p9,SmartTV 50inch,Electronics
+p10,VR Headset,Electronics
+p11,USB-C Hub,Accessories
+p12,Bluetooth Speaker,Accessories
+p13,Portable SSD 1TB,Storage
+p14,Gaming Mouse,Accessories
+p15,Mechanical Keyboard,Accessories
+p16,WiFi Range Extender,Networking
+p17,Smart Doorbell,Home Automation
+p18,Robot Vacuum,Home Automation
+p19,LED Desk Lamp,Home Essentials
+p20,Laptop Stand,Office Supplies
