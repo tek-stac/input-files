@@ -1,0 +1,21 @@
+PatientID,Name,Gender,Age,City
+P001,John Doe,M,45,New York
+P002,Alice Smith,F,33,Los Angeles
+P003,Bob Johnson,M,61,New York
+P004,Linda Adams,F,27,Los Angeles
+P005,Kevin Lee,M,50,Chicago
+P006,Susan Green,F,40,Chicago
+P007,Mark White,M,29,Houston
+P008,Nina Patel,F,35,Houston
+P009,David Brown,M,55,Phoenix
+P010,Emily Davis,F,30,Phoenix
+P011,Chris Walker,M,48,San Diego
+P012,Olivia King,F,36,San Diego
+P013,James Scott,M,62,New York
+P014,Emma Hill,F,41,Los Angeles
+P015,Ethan Young,M,38,Chicago
+P016,Chloe Clark,F,28,Houston
+P017,Daniel Lewis,M,52,Phoenix
+P018,Grace Allen,F,33,San Diego
+P019,Liam Wright,M,47,Dallas
+P020,Sophia Harris,F,34,Dallas
