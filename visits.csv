@@ -1,0 +1,21 @@
+VisitID,PatientID,Diagnosis
+V1001,P001,Diabetes
+V1002,P002,Asthma
+V1003,P003,Diabetes
+V1004,P004,Asthma
+V1005,P005,Hypertension
+V1006,P006,Hypertension
+V1007,P007,Flu
+V1008,P008,Flu
+V1009,P009,Heart Disease
+V1010,P010,Heart Disease
+V1011,P011,Diabetes
+V1012,P012,Asthma
+V1013,P013,Diabetes
+V1014,P014,Asthma
+V1015,P015,Hypertension
+V1016,P016,Flu
+V1017,P017,Heart Disease
+V1018,P018,Asthma
+V1019,P019,COVID-19
+V1020,P020,COVID-19
