@@ -1,0 +1,101 @@
+shipment_id,origin,destination,ship_date,delivery_date
+S001,New York,Los Angeles,2025-03-01,2025-03-07
+S002,Chicago,Miami,2025-03-02,2025-03-05
+S003,Dallas,San Francisco,2025-03-05,2025-03-12
+S004,Los Angeles,Seattle,2025-03-01,2025-03-03
+S005,Miami,Boston,2025-03-03,2025-03-06
+S006,Boston,New York,2025-03-04,2025-03-10
+S007,Chicago,San Francisco,2025-03-06,2025-03-09
+S008,Seattle,Chicago,2025-03-02,2025-03-08
+S009,Dallas,New York,2025-03-05,2025-03-11
+S010,Los Angeles,Boston,2025-03-01,2025-03-07
+S011,San Francisco,Chicago,2025-03-03,2025-03-09
+S012,Boston,Miami,2025-03-02,2025-03-08
+S013,New York,San Francisco,2025-03-07,2025-03-10
+S014,Miami,Chicago,2025-03-04,2025-03-08
+S015,Los Angeles,Dallas,2025-03-06,2025-03-11
+S016,Chicago,Seattle,2025-03-05,2025-03-09
+S017,Dallas,San Francisco,2025-03-08,2025-03-15
+S018,San Francisco,Boston,2025-03-02,2025-03-06
+S019,New York,Chicago,2025-03-05,2025-03-08
+S020,Seattle,Dallas,2025-03-01,2025-03-07
+S021,San Francisco,New York,2025-03-02,2025-03-05
+S022,Miami,San Francisco,2025-03-04,2025-03-07
+S023,Los Angeles,Chicago,2025-03-01,2025-03-04
+S024,Boston,Dallas,2025-03-03,2025-03-06
+S025,Chicago,Boston,2025-03-02,2025-03-09
+S026,Seattle,San Francisco,2025-03-04,2025-03-09
+S027,New York,Miami,2025-03-06,2025-03-12
+S028,Dallas,Seattle,2025-03-02,2025-03-07
+S029,Los Angeles,San Francisco,2025-03-07,2025-03-11
+S030,Chicago,New York,2025-03-03,2025-03-09
+S031,San Francisco,Los Angeles,2025-03-05,2025-03-12
+S032,Boston,Seattle,2025-03-04,2025-03-08
+S033,Miami,Dallas,2025-03-01,2025-03-05
+S034,Seattle,Boston,2025-03-02,2025-03-08
+S035,San Francisco,Chicago,2025-03-06,2025-03-09
+S036,Los Angeles,Miami,2025-03-05,2025-03-10
+S037,Dallas,Chicago,2025-03-01,2025-03-06
+S038,New York,Los Angeles,2025-03-03,2025-03-07
+S039,Miami,Seattle,2025-03-02,2025-03-07
+S040,Los Angeles,San Francisco,2025-03-06,2025-03-12
+S041,Boston,San Francisco,2025-03-01,2025-03-06
+S042,Chicago,Miami,2025-03-04,2025-03-08
+S043,Dallas,New York,2025-03-02,2025-03-07
+S044,San Francisco,Los Angeles,2025-03-03,2025-03-09
+S045,Seattle,Miami,2025-03-07,2025-03-11
+S046,New York,Boston,2025-03-05,2025-03-08
+S047,Los Angeles,Dallas,2025-03-04,2025-03-10
+S048,Chicago,San Francisco,2025-03-01,2025-03-04
+S049,Seattle,New York,2025-03-06,2025-03-09
+S050,Boston,Los Angeles,2025-03-03,2025-03-06
+S051,Chicago,Seattle,2025-03-05,2025-03-09
+S052,San Francisco,Dallas,2025-03-02,2025-03-08
+S053,Los Angeles,Miami,2025-03-07,2025-03-11
+S054,New York,San Francisco,2025-03-03,2025-03-09
+S055,San Francisco,Boston,2025-03-04,2025-03-08
+S056,Miami,Chicago,2025-03-01,2025-03-04
+S057,Los Angeles,Chicago,2025-03-06,2025-03-12
+S058,Dallas,San Francisco,2025-03-07,2025-03-13
+S059,Chicago,Dallas,2025-03-04,2025-03-09
+S060,San Francisco,Los Angeles,2025-03-02,2025-03-06
+S061,Miami,Seattle,2025-03-03,2025-03-09
+S062,New York,Miami,2025-03-04,2025-03-10
+S063,Los Angeles,New York,2025-03-06,2025-03-12
+S064,Chicago,San Francisco,2025-03-01,2025-03-04
+S065,San Francisco,Miami,2025-03-07,2025-03-10
+S066,Dallas,Seattle,2025-03-02,2025-03-08
+S067,Los Angeles,New York,2025-03-05,2025-03-09
+S068,Boston,Chicago,2025-03-06,2025-03-12
+S069,Seattle,San Francisco,2025-03-01,2025-03-06
+S070,San Francisco,Chicago,2025-03-02,2025-03-08
+S071,New York,Seattle,2025-03-03,2025-03-08
+S072,Miami,San Francisco,2025-03-04,2025-03-09
+S073,Los Angeles,San Francisco,2025-03-07,2025-03-11
+S074,Dallas,Boston,2025-03-05,2025-03-10
+S075,Chicago,Seattle,2025-03-02,2025-03-07
+S076,San Francisco,Los Angeles,2025-03-06,2025-03-12
+S077,Miami,New York,2025-03-04,2025-03-10
+S078,Los Angeles,Chicago,2025-03-03,2025-03-07
+S079,New York,Dallas,2025-03-06,2025-03-11
+S080,Chicago,San Francisco,2025-03-05,2025-03-08
+S081,Dallas,Miami,2025-03-02,2025-03-05
+S082,San Francisco,New York,2025-03-07,2025-03-11
+S083,Seattle,Los Angeles,2025-03-01,2025-03-06
+S084,New York,Miami,2025-03-03,2025-03-08
+S085,Chicago,San Francisco,2025-03-06,2025-03-12
+S086,Los Angeles,Chicago,2025-03-02,2025-03-08
+S087,San Francisco,Chicago,2025-03-05,2025-03-10
+S088,Miami,New York,2025-03-01,2025-03-05
+S089,Dallas,San Francisco,2025-03-04,2025-03-08
+S090,New York,San Francisco,2025-03-06,2025-03-10
+S091,Chicago,Miami,2025-03-02,2025-03-05
+S092,San Francisco,Dallas,2025-03-03,2025-03-09
+S093,Los Angeles,Boston,2025-03-04,2025-03-07
+S094,Boston,Miami,2025-03-01,2025-03-06
+S095,Seattle,Chicago,2025-03-02,2025-03-08
+S096,New York,Chicago,2025-03-05,2025-03-09
+S097,San Francisco,Miami,2025-03-06,2025-03-12
+S098,Miami,Seattle,2025-03-01,2025-03-06
+S099,Chicago,Los Angeles,2025-03-04,2025-03-08
+S100,Dallas,Boston,2025-03-02,2025-03-07
