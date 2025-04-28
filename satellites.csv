@@ -1,0 +1,85 @@
+SatelliteName,Country,PlannedLaunchDate,ActualLaunchDate,Orbit
+Galaxy Explorer 1,USA,2023-01-01,2023-01-15,LEO
+Cosmos Surveyor 1,Russia,2022-12-15,2023-01-20,GEO
+DragonEye 1,China,2023-02-10,2023-03-05,MEO
+StarLink 1,India,2023-03-20,2023-04-01,GEO
+SkyNet 1,USA,2023-05-05,2023-06-10,LEO
+Celestial Mapper 1,China,2023-06-15,2023-08-01,GEO
+OrbitMaster 1,Russia,2023-07-20,2023-09-05,MEO
+AstroProbe 1,India,2023-09-10,2023-10-25,GEO
+Voyager 1,USA,2023-11-15,2023-12-20,LEO
+SpaceEye 1,China,2023-12-01,2024-01-05,GEO
+Stellar Scanner 1,Russia,2024-01-20,2024-03-15,MEO
+Lunar Sentinel 1,India,2024-02-10,2024-04-01,GEO
+Stargazer 1,USA,2024-04-15,2024-05-20,LEO
+Red Planet Explorer 1,China,2024-05-10,2024-06-05,MEO
+DeepSpace Observer 1,Russia,2024-06-20,2024-07-15,GEO
+AstroNavigator 1,India,2024-07-10,2024-08-01,GEO
+AstroSearcher 1,USA,2024-08-15,2024-09-20,LEO
+Cosmic Voyager 1,China,2024-09-01,2024-10-05,GEO
+Space Sentinel 1,Russia,2024-10-20,2024-11-15,MEO
+Star Tracker 1,India,2024-11-10,2024-12-25,GEO
+Lunar Explorer 1,USA,2025-01-15,2025-02-20,LEO
+PlanetMapper 1,China,2025-02-01,2025-03-05,GEO
+Solar Surveyor 1,Russia,2025-03-20,2025-04-15,MEO
+CometChaser 1,India,2025-04-10,2025-05-25,GEO
+Galactic Explorer 2,USA,2025-05-15,2025-06-20,LEO
+Planetary Observer 2,China,2025-06-01,2025-07-05,MEO
+Astronomical Surveyor 2,Russia,2025-07-20,2025-08-15,GEO
+Celestial Navigator 2,India,2025-08-10,2025-09-01,GEO
+AstroExplorer 2,USA,2025-09-15,2025-10-20,LEO
+Space Voyager 2,China,2025-10-01,2025-11-05,GEO
+Star Sentinel 2,Russia,2025-11-20,2025-12-15,MEO
+Lunar Tracker 2,India,2025-12-10,2026-01-25,GEO
+Interstellar Explorer 1,USA,2026-01-15,2026-02-20,LEO
+Cosmic Mapper 1,China,2026-02-01,2026-03-05,GEO
+Stellar Surveyor 1,Russia,2026-03-20,2026-04-15,MEO
+GalaxyChaser 1,India,2026-04-10,2026-05-25,GEO
+Planetary Explorer 3,USA,2026-05-15,2026-06-20,LEO
+AstroNavigator 2,China,2026-06-01,2026-07-05,MEO
+Celestial Mapper 2,Russia,2026-07-20,2026-08-15,GEO
+Stellar Surveyor 2,India,2026-08-10,2026-09-01,GEO
+Cosmic Voyager 2,USA,2026-09-15,2026-10-20,LEO
+Galactic Observer 3,China,2026-10-01,2026-11-05,GEO
+Space Sentinel 3,Russia,2026-11-20,2026-12-15,MEO
+Lunar Explorer 2,India,2026-12-10,2027-01-25,GEO
+Interstellar Explorer 2,USA,2027-01-15,2027-02-20,LEO
+Stellar Mapper 1,China,2027-02-01,2027-03-05,GEO
+Galactic Surveyor 1,Russia,2027-03-20,2027-04-15,MEO
+CometChaser 2,India,2027-04-10,2027-05-25,GEO
+Planetary Explorer 4,USA,2027-05-15,2027-06-20,LEO
+AstroNavigator 3,China,2027-06-01,2027-07-05,MEO
+Celestial Mapper 3,Russia,2027-07-20,2027-08-15,GEO
+Stellar Surveyor 3,India,2027-08-10,2027-09-01,GEO
+Cosmic Voyager 3,USA,2027-09-15,2027-10-20,LEO
+Galactic Observer 4,China,2027-10-01,2027-11-05,GEO
+Space Sentinel 4,Russia,2027-11-20,2027-12-15,MEO
+Lunar Explorer 3,India,2027-12-10,2028-01-25,GEO
+Interstellar Explorer 3,USA,2028-01-15,2028-02-20,LEO
+Stellar Mapper 2,China,2028-02-01,2028-03-05,GEO
+Galactic Surveyor 2,Russia,2028-03-20,2028-04-15,MEO
+CometChaser 3,India,2028-04-10,2028-05-25,GEO
+Planetary Explorer 5,USA,2028-05-15,2028-06-20,LEO
+AstroNavigator 4,China,2028-06-01,2028-07-05,MEO
+Celestial Mapper 4,Russia,2028-07-20,2028-08-15,GEO
+Stellar Surveyor 4,India,2028-08-10,2028-09-01,GEO
+Cosmic Voyager 4,USA,2028-09-15,2028-10-20,LEO
+Galactic Observer 5,China,2028-10-01,2028-11-05,GEO
+Space Sentinel 5,Russia,2028-11-20,2028-12-15,MEO
+Lunar Explorer 4,India,2028-12-10,2029-01-25,GEO
+Interstellar Explorer 4,USA,2029-01-15,2029-02-20,LEO
+Stellar Mapper 3,China,2029-02-01,2029-03-05,GEO
+Galactic Surveyor 3,Russia,2029-03-20,2029-04-15,MEO
+CometChaser 4,India,2029-04-10,2029-05-25,GEO
+Planetary Explorer 6,USA,2029-05-15,2029-06-20,LEO
+AstroNavigator 5,China,2029-06-01,2029-07-05,MEO
+Celestial Mapper 5,Russia,2029-07-20,2029-08-15,GEO
+Stellar Surveyor 5,India,2029-08-10,2029-09-01,GEO
+Cosmic Voyager 5,USA,2029-09-15,2029-10-20,LEO
+Galactic Observer 6,China,2029-10-01,2029-11-05,GEO
+Space Sentinel 6,Russia,2029-11-20,2029-12-15,MEO
+Lunar Explorer 5,India,2029-12-10,2030-01-25,GEO
+Interstellar Explorer 5,USA,2030-01-15,2030-02-20,LEO
+Stellar Mapper 4,China,2030-02-01,2030-03-05,GEO
+Galactic Surveyor 4,Russia,2030-03-20,2030-04-15,MEO
+CometChaser 5,India,2030-04-10,2030-05-25,GEO
