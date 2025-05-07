@@ -1,0 +1,67 @@
+MYSQL Error Type-1: A significant part.
+MYSQL Error Type-2: Attempting load library 'xplog70.dll' into memory. 
+MYSQL Error Type-1: A significant part of mysql server process memory has been paged out. 
+PHP Error: Call undefined function
+MYSQL Error Type-1:
+edgeupdate: Identification Event in origin "edgeupdate".
+edgeupdate: Identification Event in origin "edgeupdate". 
+PHP Error: Call to undefined function
+Microsoft-Windows Error:
+Microsoft-Windows Error: 
+Security Error: error occurred during the parsing.
+PHP Error: Call to undefined function
+PHP Error: Call to undefined function
+PHP Error: Call to undefined function
+Security Error: 
+PHP Error: Call to undefined function
+PHP Error: Call to undefined function
+PHP Error: Call to undefined function
+Security Error:
+Security Error:
+edgeupdate: not possible locate the description Identification Event in origin "edgeupdate". 
+edgeupdate: not possible locate the description the Identification Event in origin "edgeupdate". 
+SynTPEnhService: The database engine detached database: The database engine detached. 
+SynTPEnhService: The database engine detached database: The database engine detached.
+edgeupdate: not possible to locate the description of the Identification Event in origin "edgeupdate".
+edgeupdate: not possible to locate the description of the Identification Event in origin "edgeupdate". 
+SynTPEnhService: The database engine detached
+SynTPEnhService: The database engine detached
+SynTPEnhService: The database engine detached
+SynTPEnhService: The database engine detached
+Microsoft-Windows Error: The application failed to initialize because the widow station. 
+SynTPEnhService:  The database engine detached 
+Microsoft-Windows Error: The application failed to initialize because the widow station. 
+MYSQL Error Type-2: Attempting to load library 'xplog70.dll' into memory. 
+SynTPEnhService:  The database engine detached
+SynTPEnhService:  The database engine detached
+Microsoft-Windows Error: The application failed to initialize because the widow station is being shut down. 
+Microsoft-Windows Error
+SynTPEnhService
+edgeupdate
+edgeupdate
+PHP Error
+PHP Error 
+PHP Error 
+Microsoft-Windows Error  
+Microsoft-Windows Error 
+edgeupdate 
+edgeupdate 
+PHP Error 
+edgeupdate 
+edgeupdate  
+PHP Error 
+Security Error 
+Microsoft-Windows Error 
+MYSQL Error Type-1 
+MYSQL Error Type-1
+Microsoft-Windows Error 
+PHP Error
+Microsoft-Windows Error 
+PHP Error
+Microsoft-Windows Error 
+SynTPEnhService  
+SynTPEnhService  
+Microsoft-Windows Error  
+PHP Error 
+MYSQL Error Type-1
+MYSQL Error Type-1
