@@ -1,0 +1,11 @@
+accident_id,location,accident_date,severity,vehicle_count,injuries,fatalities,weather_conditions,road_conditions
+1,NYC,2023-01-01,Minor,3,2,0,Clear,Good
+2,LA,2023-01-02,Severe,5,4,1,Rainy,Poor
+3,Chicago,2023-01-03,Moderate,2,1,0,Foggy,Good
+4,Boston,2023-01-04,Severe,6,3,2,Snowy,Poor
+5,Miami,2023-01-05,Minor,4,1,0,Clear,Good
+6,LA,2023-01-06,Moderate,3,2,0,Foggy,Good
+7,NYC,2023-01-07,Severe,7,5,2,Rainy,Poor
+8,Chicago,2023-01-08,Minor,2,1,0,Clear,Good
+9,Boston,2023-01-09,Moderate,4,3,0,Snowy,Poor
+10,Miami,2023-01-10,Minor,3,2,0,Clear,Good
