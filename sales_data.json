@@ -1,0 +1,22 @@
+[
+  {"CustomerID": 1, "ProductID": 101, "Quantity": 2, "Price": 500, "Date": "2025-01-04"},
+  {"CustomerID": 1, "ProductID": 102, "Quantity": 1, "Price": 2000, "Date": "2025-01-04"},
+  {"CustomerID": 2, "ProductID": 103, "Quantity": 5, "Price": 1000, "Date": "2025-02-12"},
+  {"CustomerID": 3, "ProductID": 104, "Quantity": 10, "Price": 300, "Date": "2025-03-15"},
+  {"CustomerID": 2, "ProductID": 105, "Quantity": 20, "Price": 1500, "Date": "2025-04-20"},
+  {"CustomerID": 4, "ProductID": 106, "Quantity": 3, "Price": 800, "Date": "2025-05-10"},
+  {"CustomerID": 5, "ProductID": 107, "Quantity": 7, "Price": 1200, "Date": "2025-06-15"},
+  {"CustomerID": 3, "ProductID": 108, "Quantity": 4, "Price": 250, "Date": "2025-06-18"},
+  {"CustomerID": 6, "ProductID": 109, "Quantity": 9, "Price": 700, "Date": "2025-07-22"},
+  {"CustomerID": 4, "ProductID": 110, "Quantity": 2, "Price": 3500, "Date": "2025-08-05"},
+  {"CustomerID": 5, "ProductID": 111, "Quantity": 1, "Price": 5000, "Date": "2025-09-10"},
+  {"CustomerID": 1, "ProductID": 112, "Quantity": 6, "Price": 450, "Date": "2025-10-01"},
+  {"CustomerID": 2, "ProductID": 113, "Quantity": 8, "Price": 1000, "Date": "2025-11-11"},
+  {"CustomerID": 6, "ProductID": 114, "Quantity": 5, "Price": 1500, "Date": "2025-12-15"},
+  {"CustomerID": 4, "ProductID": 115, "Quantity": 12, "Price": 400, "Date": "2025-12-20"},
+  {"CustomerID": 5, "ProductID": 116, "Quantity": 2, "Price": 3000, "Date": "2025-03-25"},
+  {"CustomerID": 3, "ProductID": 117, "Quantity": 1, "Price": 10000, "Date": "2025-04-05"},
+  {"CustomerID": 7, "ProductID": 118, "Quantity": 5, "Price": 600, "Date": "2025-07-30"},
+  {"CustomerID": 8, "ProductID": 119, "Quantity": 2, "Price": 250, "Date": "2025-08-14"},
+  {"CustomerID": 9, "ProductID": 120, "Quantity": 4, "Price": 2200, "Date": "2025-09-28"}
+]
