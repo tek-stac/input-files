@@ -1,0 +1,201 @@
+Patient_ID,Name,Age,Gender,Height_cm,Weight_kg,Diagnosis
+P001,Barbara_Brown,36,Female,154,50,Heart Disease
+P002,Elizabeth_Davis,65,Female,183,91,Asthma
+P003,Mary_Martinez,37,Female,161,83,Heart Disease
+P004,Jennifer_Rodriguez,39,Female,162,48,Healthy
+P005,William_Martinez,26,Male,152,98,Asthma
+P006,Barbara_Jones,33,Female,154,110,Asthma
+P007,Mary_Garcia,38,Female,160,106,Heart Disease
+P008,Jennifer_Smith,48,Female,174,57,Diabetes
+P009,Dorothy_Brown,68,Female,179,86,Healthy
+P010,Linda_Rodriguez,62,Female,181,86,Heart Disease
+P011,Linda_Johnson,79,Female,158,115,Heart Disease
+P012,Dorothy_Martinez,65,Female,184,49,Asthma
+P013,Margaret_Davis,26,Female,192,50,Asthma
+P014,Maria_Rodriguez,53,Female,169,64,Healthy
+P015,Margaret_Smith,28,Female,161,88,Diabetes
+P016,Robert_Brown,26,Male,199,101,Hypertension
+P017,James_Wilson,51,Male,163,46,Hypertension
+P018,Linda_Davis,42,Female,196,58,Diabetes
+P019,Margaret_Johnson,48,Female,195,47,Healthy
+P020,Michael_Davis,42,Male,189,77,Hypertension
+P021,David_Johnson,37,Male,191,110,Asthma
+P022,Richard_Johnson,80,Male,176,115,Heart Disease
+P023,Thomas_Johnson,29,Male,156,85,Heart Disease
+P024,Margaret_Jones,68,Female,181,45,Diabetes
+P025,William_Brown,23,Male,192,75,Asthma
+P026,Dorothy_Wilson,52,Female,164,56,Diabetes
+P027,Robert_Wilson,20,Male,162,93,Heart Disease
+P028,Joseph_Davis,34,Male,194,108,Healthy
+P029,Susan_Jones,40,Female,152,90,Heart Disease
+P030,Thomas_Jones,42,Male,166,82,Asthma
+P031,William_Brown,18,Male,170,65,Hypertension
+P032,Maria_Jones,80,Female,197,84,Hypertension
+P033,Margaret_Wilson,63,Female,194,60,Diabetes
+P034,William_Martinez,57,Male,189,110,Diabetes
+P035,Barbara_Johnson,53,Female,181,48,Diabetes
+P036,William_Brown,45,Male,179,61,Heart Disease
+P037,Robert_Smith,39,Male,198,85,Asthma
+P038,Michael_Davis,65,Male,185,75,Hypertension
+P039,Susan_Davis,80,Female,152,66,Asthma
+P040,Robert_Wilson,30,Male,167,48,Healthy
+P041,Charles_Martinez,39,Male,189,112,Heart Disease
+P042,Thomas_Garcia,40,Male,166,114,Asthma
+P043,William_Jones,73,Male,199,75,Healthy
+P044,John_Davis,68,Male,180,87,Asthma
+P045,Linda_Wilson,68,Female,193,70,Hypertension
+P046,Jennifer_Miller,18,Female,195,104,Heart Disease
+P047,Elizabeth_Rodriguez,63,Female,160,75,Asthma
+P048,David_Smith,51,Male,162,84,Asthma
+P049,Michael_Davis,46,Male,197,89,Asthma
+P050,Michael_Rodriguez,58,Male,180,57,Hypertension
+P051,Robert_Martinez,76,Male,200,61,Heart Disease
+P052,Linda_Rodriguez,67,Female,181,63,Heart Disease
+P053,Thomas_Brown,34,Male,182,87,Healthy
+P054,Jennifer_Johnson,66,Female,166,60,Healthy
+P055,Michael_Rodriguez,22,Male,188,103,Heart Disease
+P056,James_Davis,44,Male,151,108,Diabetes
+P057,Barbara_Johnson,56,Female,179,62,Hypertension
+P058,Charles_Davis,70,Male,152,48,Heart Disease
+P059,John_Davis,46,Male,191,66,Diabetes
+P060,Lisa_Brown,18,Female,151,114,Asthma
+P061,Jennifer_Johnson,47,Female,156,92,Diabetes
+P062,William_Wilson,58,Male,159,49,Diabetes
+P063,Thomas_Martinez,69,Male,185,103,Healthy
+P064,Robert_Davis,57,Male,178,71,Diabetes
+P065,Michael_Jones,52,Male,167,73,Asthma
+P066,Barbara_Garcia,78,Female,159,80,Diabetes
+P067,Margaret_Jones,44,Female,191,78,Heart Disease
+P068,Barbara_Miller,66,Female,161,95,Heart Disease
+P069,Elizabeth_Jones,24,Female,198,88,Healthy
+P070,Michael_Jones,61,Male,155,106,Healthy
+P071,Susan_Brown,50,Female,181,55,Hypertension
+P072,Robert_Martinez,18,Male,159,46,Hypertension
+P073,Charles_Garcia,52,Male,183,116,Heart Disease
+P074,Joseph_Rodriguez,25,Male,197,70,Heart Disease
+P075,John_Johnson,64,Male,179,65,Asthma
+P076,Mary_Smith,40,Female,179,49,Diabetes
+P077,Thomas_Garcia,79,Male,175,49,Heart Disease
+P078,Richard_Miller,66,Male,166,76,Heart Disease
+P079,Robert_Wilson,49,Male,198,67,Diabetes
+P080,Charles_Johnson,53,Male,193,55,Diabetes
+P081,David_Davis,62,Male,193,62,Healthy
+P082,David_Rodriguez,79,Male,150,67,Heart Disease
+P083,Margaret_Johnson,67,Female,167,81,Heart Disease
+P084,David_Jones,29,Male,169,83,Asthma
+P085,Mary_Smith,54,Female,161,50,Healthy
+P086,David_Brown,35,Male,196,112,Diabetes
+P087,Margaret_Wilson,72,Female,186,118,Asthma
+P088,Robert_Garcia,58,Male,162,63,Healthy
+P089,Richard_Johnson,24,Male,172,64,Healthy
+P090,Lisa_Wilson,57,Female,178,95,Heart Disease
+P091,Jennifer_Johnson,44,Female,163,60,Hypertension
+P092,Richard_Jones,47,Male,188,68,Heart Disease
+P093,Elizabeth_Miller,80,Female,155,75,Heart Disease
+P094,Linda_Smith,35,Female,173,102,Heart Disease
+P095,Margaret_Brown,21,Female,189,118,Diabetes
+P096,Elizabeth_Garcia,65,Female,173,111,Heart Disease
+P097,Jennifer_Brown,50,Female,175,84,Heart Disease
+P098,James_Martinez,39,Male,188,107,Asthma
+P099,Elizabeth_Martinez,32,Female,200,97,Diabetes
+P100,Robert_Garcia,27,Male,171,86,Healthy
+P101,David_Rodriguez,67,Male,169,72,Asthma
+P102,Richard_Jones,69,Male,188,117,Healthy
+P103,Thomas_Miller,68,Male,185,69,Diabetes
+P104,David_Brown,47,Male,184,54,Healthy
+P105,John_Smith,70,Male,157,109,Diabetes
+P106,David_Wilson,58,Male,174,62,Healthy
+P107,William_Garcia,80,Male,163,111,Asthma
+P108,Maria_Martinez,59,Female,177,67,Hypertension
+P109,Robert_Smith,30,Male,180,107,Healthy
+P110,John_Rodriguez,25,Male,163,109,Diabetes
+P111,Thomas_Brown,69,Male,192,86,Diabetes
+P112,Susan_Garcia,71,Female,186,71,Diabetes
+P113,Maria_Martinez,35,Female,172,94,Healthy
+P114,Joseph_Wilson,18,Male,192,95,Asthma
+P115,Lisa_Wilson,22,Female,163,47,Heart Disease
+P116,Michael_Smith,36,Male,199,118,Asthma
+P117,David_Wilson,60,Male,180,99,Heart Disease
+P118,David_Martinez,67,Male,198,89,Hypertension
+P119,Richard_Brown,79,Male,157,88,Diabetes
+P120,Robert_Smith,77,Male,155,86,Healthy
+P121,Maria_Garcia,77,Female,162,75,Diabetes
+P122,Dorothy_Wilson,45,Female,154,101,Diabetes
+P123,Charles_Rodriguez,73,Male,180,61,Asthma
+P124,Susan_Davis,51,Female,158,78,Healthy
+P125,Maria_Davis,50,Female,160,60,Diabetes
+P126,Margaret_Wilson,55,Female,199,79,Hypertension
+P127,Thomas_Miller,38,Male,182,55,Healthy
+P128,Elizabeth_Smith,72,Female,163,72,Hypertension
+P129,Richard_Smith,54,Male,162,58,Diabetes
+P130,Dorothy_Brown,47,Female,172,116,Diabetes
+P131,David_Davis,68,Male,184,87,Heart Disease
+P132,Jennifer_Brown,77,Female,176,117,Healthy
+P133,Elizabeth_Davis,40,Female,169,104,Healthy
+P134,Jennifer_Martinez,76,Female,172,82,Hypertension
+P135,Elizabeth_Brown,30,Female,185,98,Heart Disease
+P136,Margaret_Smith,74,Female,168,78,Diabetes
+P137,Thomas_Miller,36,Male,164,105,Healthy
+P138,Michael_Rodriguez,38,Male,155,85,Healthy
+P139,Lisa_Martinez,57,Female,187,66,Heart Disease
+P140,Linda_Brown,27,Female,174,119,Hypertension
+P141,Richard_Miller,30,Male,170,104,Healthy
+P142,John_Martinez,63,Male,177,58,Healthy
+P143,Richard_Rodriguez,41,Male,177,50,Asthma
+P144,Margaret_Davis,39,Female,191,87,Healthy
+P145,Michael_Garcia,29,Male,184,117,Healthy
+P146,William_Wilson,35,Male,189,45,Heart Disease
+P147,Linda_Miller,28,Female,181,63,Hypertension
+P148,Charles_Davis,29,Male,165,103,Healthy
+P149,Susan_Garcia,60,Female,180,113,Heart Disease
+P150,Susan_Miller,69,Female,178,83,Heart Disease
+P151,John_Martinez,48,Male,200,101,Healthy
+P152,Michael_Jones,78,Male,199,108,Heart Disease
+P153,Joseph_Garcia,61,Male,194,50,Asthma
+P154,David_Rodriguez,71,Male,153,95,Diabetes
+P155,Barbara_Smith,31,Female,197,61,Heart Disease
+P156,William_Jones,28,Male,180,114,Heart Disease
+P157,Jennifer_Miller,34,Female,174,45,Heart Disease
+P158,Joseph_Martinez,30,Male,199,48,Hypertension
+P159,David_Rodriguez,35,Male,177,68,Hypertension
+P160,William_Johnson,49,Male,184,105,Hypertension
+P161,Dorothy_Rodriguez,74,Female,192,51,Asthma
+P162,Mary_Davis,63,Female,199,45,Healthy
+P163,Charles_Johnson,67,Male,153,120,Asthma
+P164,Dorothy_Davis,20,Female,162,46,Asthma
+P165,Richard_Smith,31,Male,200,54,Hypertension
+P166,Charles_Jones,21,Male,158,103,Asthma
+P167,Robert_Brown,75,Male,186,96,Diabetes
+P168,Barbara_Miller,48,Female,189,113,Hypertension
+P169,Jennifer_Miller,75,Female,163,101,Asthma
+P170,John_Jones,39,Male,166,68,Asthma
+P171,Thomas_Garcia,48,Male,200,88,Healthy
+P172,Thomas_Martinez,64,Male,152,48,Heart Disease
+P173,Richard_Wilson,51,Male,156,120,Asthma
+P174,Charles_Smith,71,Male,187,46,Healthy
+P175,Jennifer_Brown,42,Female,150,69,Diabetes
+P176,William_Garcia,30,Male,175,103,Heart Disease
+P177,Maria_Martinez,22,Female,181,111,Diabetes
+P178,Barbara_Smith,29,Female,158,90,Hypertension
+P179,William_Garcia,33,Male,199,114,Healthy
+P180,Michael_Davis,79,Male,187,97,Diabetes
+P181,Joseph_Jones,24,Male,187,108,Diabetes
+P182,Charles_Smith,74,Male,191,78,Diabetes
+P183,Susan_Rodriguez,70,Female,167,113,Healthy
+P184,Elizabeth_Jones,20,Female,168,57,Heart Disease
+P185,Richard_Brown,65,Male,158,97,Heart Disease
+P186,Barbara_Smith,52,Female,154,110,Heart Disease
+P187,Margaret_Johnson,41,Female,152,67,Heart Disease
+P188,Mary_Rodriguez,21,Female,179,50,Asthma
+P189,Michael_Wilson,62,Male,187,61,Heart Disease
+P190,Joseph_Miller,72,Male,167,62,Hypertension
+P191,John_Jones,25,Male,185,119,Heart Disease
+P192,Dorothy_Rodriguez,24,Female,155,93,Diabetes
+P193,Thomas_Martinez,46,Male,188,95,Asthma
+P194,Barbara_Garcia,68,Female,158,82,Asthma
+P195,Robert_Brown,26,Male,171,101,Diabetes
+P196,Lisa_Rodriguez,64,Female,179,88,Asthma
+P197,Mary_Martinez,44,Female,160,50,Diabetes
+P198,Maria_Johnson,80,Female,191,51,Healthy
+P199,Linda_Wilson,25,Female,191,88,Asthma
+P200,Jennifer_Garcia,72,Female,167,79,Heart Disease
