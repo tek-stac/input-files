@@ -1,0 +1,501 @@
+StreamID,UserID,Song,Artist,Genre,Date
+1,U919,Photograph,Ed Sheeran,Pop,2021-06-12
+2,U436,Someone Like You,Adele,Pop,2021-11-05
+3,U196,Cardigan,Taylor Swift,Pop,2021-11-03
+4,U574,Levitating,Dua Lipa,Pop,2021-06-12
+5,U205,Perfect,Ed Sheeran,Pop,2021-01-11
+6,U133,Happier Than Ever,Billie Eilish,Alternative,2021-10-05
+7,U924,Save Your Tears,The Weeknd,R&B,2021-11-08
+8,U448,Hotline Bling,Drake,Hip-Hop,2021-12-04
+9,U570,Permission to Dance,BTS,K-Pop,2021-11-21
+10,U400,Ocean Eyes,Billie Eilish,Alternative,2021-11-27
+11,U585,Photograph,Ed Sheeran,Pop,2021-04-16
+12,U467,Permission to Dance,BTS,K-Pop,2021-10-20
+13,U338,Shape of You,Ed Sheeran,Pop,2021-04-29
+14,U777,Ocean Eyes,Billie Eilish,Alternative,2021-04-06
+15,U286,Hotline Bling,Drake,Hip-Hop,2021-09-12
+16,U155,One Dance,Drake,Hip-Hop,2021-11-23
+17,U576,Rolling in the Deep,Adele,Pop,2021-07-19
+18,U253,Hello,Adele,Pop,2021-08-19
+19,U374,Cardigan,Taylor Swift,Pop,2021-01-07
+20,U962,Photograph,Ed Sheeran,Pop,2021-06-15
+21,U486,Don't Start Now,Dua Lipa,Pop,2021-01-09
+22,U104,Photograph,Ed Sheeran,Pop,2021-01-06
+23,U604,Photograph,Ed Sheeran,Pop,2021-01-12
+24,U709,Therefore I Am,Billie Eilish,Alternative,2021-02-19
+25,U893,Perfect,Ed Sheeran,Pop,2021-07-25
+26,U919,Bad Habits,Ed Sheeran,Pop,2021-08-28
+27,U815,Blinding Lights,The Weeknd,R&B,2021-03-23
+28,U280,Happier Than Ever,Billie Eilish,Alternative,2021-01-01
+29,U477,God's Plan,Drake,Hip-Hop,2021-07-09
+30,U317,Permission to Dance,BTS,K-Pop,2021-09-26
+31,U937,Save Your Tears,The Weeknd,R&B,2021-10-03
+32,U259,Hallucinate,Dua Lipa,Pop,2021-09-17
+33,U800,Hello,Adele,Pop,2021-10-09
+34,U549,Save Your Tears,The Weeknd,R&B,2021-04-12
+35,U911,Happier Than Ever,Billie Eilish,Alternative,2021-01-03
+36,U132,Love Story,Taylor Swift,Pop,2021-01-09
+37,U513,One Dance,Drake,Hip-Hop,2021-03-10
+38,U350,One Dance,Drake,Hip-Hop,2021-02-11
+39,U744,Dynamite,BTS,K-Pop,2021-03-14
+40,U909,Hotline Bling,Drake,Hip-Hop,2021-08-07
+41,U798,Ocean Eyes,Billie Eilish,Alternative,2021-12-23
+42,U326,Shake It Off,Taylor Swift,Pop,2021-08-17
+43,U443,Can't Feel My Face,The Weeknd,R&B,2021-03-01
+44,U739,Bad Habits,Ed Sheeran,Pop,2021-10-16
+45,U476,Photograph,Ed Sheeran,Pop,2021-10-10
+46,U381,Levitating,Dua Lipa,Pop,2021-06-14
+47,U501,Happier Than Ever,Billie Eilish,Alternative,2021-11-09
+48,U795,Love Story,Taylor Swift,Pop,2021-01-22
+49,U625,Shake It Off,Taylor Swift,Pop,2021-10-26
+50,U549,Permission to Dance,BTS,K-Pop,2021-09-16
+51,U356,In My Feelings,Drake,Hip-Hop,2021-12-03
+52,U723,Can't Feel My Face,The Weeknd,R&B,2021-09-08
+53,U527,Someone Like You,Adele,Pop,2021-05-02
+54,U568,Fake Love,BTS,K-Pop,2021-06-14
+55,U473,Someone Like You,Adele,Pop,2021-02-23
+56,U728,Bad Guy,Billie Eilish,Alternative,2021-01-28
+57,U797,Blank Space,Taylor Swift,Pop,2021-09-30
+58,U925,Bad Guy,Billie Eilish,Alternative,2021-08-16
+59,U968,Hotline Bling,Drake,Hip-Hop,2021-10-06
+60,U689,One Dance,Drake,Hip-Hop,2021-05-26
+61,U969,Permission to Dance,BTS,K-Pop,2021-12-27
+62,U481,Love Story,Taylor Swift,Pop,2021-09-22
+63,U634,Photograph,Ed Sheeran,Pop,2021-01-13
+64,U383,Permission to Dance,BTS,K-Pop,2021-08-23
+65,U960,God's Plan,Drake,Hip-Hop,2021-12-13
+66,U376,Save Your Tears,The Weeknd,R&B,2021-12-19
+67,U996,Easy On Me,Adele,Pop,2021-11-08
+68,U677,Perfect,Ed Sheeran,Pop,2021-09-07
+69,U922,Rolling in the Deep,Adele,Pop,2021-05-03
+70,U449,Butter,BTS,K-Pop,2021-11-17
+71,U170,Shake It Off,Taylor Swift,Pop,2021-04-24
+72,U618,Bad Habits,Ed Sheeran,Pop,2021-03-22
+73,U938,One Dance,Drake,Hip-Hop,2021-11-03
+74,U897,Dynamite,BTS,K-Pop,2021-06-12
+75,U837,Perfect,Ed Sheeran,Pop,2021-06-09
+76,U603,Starboy,The Weeknd,R&B,2021-12-26
+77,U864,Butter,BTS,K-Pop,2021-01-24
+78,U347,Bad Habits,Ed Sheeran,Pop,2021-02-25
+79,U884,In My Feelings,Drake,Hip-Hop,2021-11-29
+80,U358,One Dance,Drake,Hip-Hop,2021-05-10
+81,U307,Cardigan,Taylor Swift,Pop,2021-09-17
+82,U178,Butter,BTS,K-Pop,2021-05-28
+83,U578,Starboy,The Weeknd,R&B,2021-01-19
+84,U490,Photograph,Ed Sheeran,Pop,2021-03-06
+85,U965,Don't Start Now,Dua Lipa,Pop,2021-04-27
+86,U806,Hotline Bling,Drake,Hip-Hop,2021-12-02
+87,U732,Therefore I Am,Billie Eilish,Alternative,2021-10-20
+88,U553,Blank Space,Taylor Swift,Pop,2021-03-27
+89,U537,Can't Feel My Face,The Weeknd,R&B,2021-01-23
+90,U959,Bad Habits,Ed Sheeran,Pop,2021-09-27
+91,U451,Permission to Dance,BTS,K-Pop,2021-12-09
+92,U132,Levitating,Dua Lipa,Pop,2021-04-22
+93,U587,Shape of You,Ed Sheeran,Pop,2021-06-04
+94,U597,Bad Guy,Billie Eilish,Alternative,2021-12-23
+95,U795,Perfect,Ed Sheeran,Pop,2021-06-02
+96,U853,Don't Start Now,Dua Lipa,Pop,2021-08-07
+97,U774,One Dance,Drake,Hip-Hop,2021-02-20
+98,U493,Cardigan,Taylor Swift,Pop,2021-09-06
+99,U277,Happier Than Ever,Billie Eilish,Alternative,2021-01-31
+100,U148,Save Your Tears,The Weeknd,R&B,2021-12-20
+101,U981,Someone Like You,Adele,Pop,2021-02-13
+102,U373,Can't Feel My Face,The Weeknd,R&B,2021-08-15
+103,U805,Save Your Tears,The Weeknd,R&B,2021-12-12
+104,U114,Love Story,Taylor Swift,Pop,2021-01-01
+105,U548,Dynamite,BTS,K-Pop,2021-07-23
+106,U137,Butter,BTS,K-Pop,2021-05-24
+107,U549,Hello,Adele,Pop,2021-04-16
+108,U426,Bad Habits,Ed Sheeran,Pop,2021-06-13
+109,U232,Fake Love,BTS,K-Pop,2021-02-07
+110,U786,Blinding Lights,The Weeknd,R&B,2021-01-30
+111,U502,Perfect,Ed Sheeran,Pop,2021-07-04
+112,U995,Shake It Off,Taylor Swift,Pop,2021-01-03
+113,U938,Cardigan,Taylor Swift,Pop,2021-01-16
+114,U592,Blinding Lights,The Weeknd,R&B,2021-04-11
+115,U305,Ocean Eyes,Billie Eilish,Alternative,2021-03-21
+116,U512,Hello,Adele,Pop,2021-07-04
+117,U470,Dynamite,BTS,K-Pop,2021-01-24
+118,U562,One Dance,Drake,Hip-Hop,2021-09-22
+119,U333,Bad Habits,Ed Sheeran,Pop,2021-08-03
+120,U206,New Rules,Dua Lipa,Pop,2021-10-04
+121,U383,Easy On Me,Adele,Pop,2021-06-15
+122,U720,In My Feelings,Drake,Hip-Hop,2021-01-03
+123,U765,Hallucinate,Dua Lipa,Pop,2021-01-24
+124,U957,Bad Habits,Ed Sheeran,Pop,2021-10-11
+125,U231,Perfect,Ed Sheeran,Pop,2021-12-14
+126,U597,Shake It Off,Taylor Swift,Pop,2021-12-08
+127,U247,Shape of You,Ed Sheeran,Pop,2021-10-19
+128,U835,Love Story,Taylor Swift,Pop,2021-05-10
+129,U533,Permission to Dance,BTS,K-Pop,2021-03-27
+130,U979,Levitating,Dua Lipa,Pop,2021-12-20
+131,U335,In My Feelings,Drake,Hip-Hop,2021-05-01
+132,U390,Therefore I Am,Billie Eilish,Alternative,2021-07-24
+133,U418,Shape of You,Ed Sheeran,Pop,2021-02-21
+134,U894,Bad Habits,Ed Sheeran,Pop,2021-07-23
+135,U225,Butter,BTS,K-Pop,2021-12-13
+136,U262,God's Plan,Drake,Hip-Hop,2021-11-28
+137,U931,Save Your Tears,The Weeknd,R&B,2021-09-21
+138,U732,Love Story,Taylor Swift,Pop,2021-10-05
+139,U485,Ocean Eyes,Billie Eilish,Alternative,2021-09-03
+140,U176,Hallucinate,Dua Lipa,Pop,2021-05-31
+141,U499,Blinding Lights,The Weeknd,R&B,2021-05-11
+142,U348,Perfect,Ed Sheeran,Pop,2021-03-09
+143,U708,Easy On Me,Adele,Pop,2021-04-24
+144,U547,Easy On Me,Adele,Pop,2021-11-24
+145,U835,Photograph,Ed Sheeran,Pop,2021-12-17
+146,U715,Fake Love,BTS,K-Pop,2021-12-12
+147,U448,Permission to Dance,BTS,K-Pop,2021-07-18
+148,U544,Hotline Bling,Drake,Hip-Hop,2021-01-01
+149,U513,Hotline Bling,Drake,Hip-Hop,2021-12-28
+150,U705,Permission to Dance,BTS,K-Pop,2021-11-28
+151,U988,Blinding Lights,The Weeknd,R&B,2021-05-12
+152,U390,Shape of You,Ed Sheeran,Pop,2021-10-16
+153,U729,Rolling in the Deep,Adele,Pop,2021-09-24
+154,U101,Photograph,Ed Sheeran,Pop,2021-10-27
+155,U752,Levitating,Dua Lipa,Pop,2021-11-18
+156,U299,Blank Space,Taylor Swift,Pop,2021-07-31
+157,U753,Save Your Tears,The Weeknd,R&B,2021-09-05
+158,U349,Love Story,Taylor Swift,Pop,2021-01-29
+159,U566,Love Story,Taylor Swift,Pop,2021-05-17
+160,U122,Blank Space,Taylor Swift,Pop,2021-03-29
+161,U273,Cardigan,Taylor Swift,Pop,2021-02-19
+162,U220,Don't Start Now,Dua Lipa,Pop,2021-04-15
+163,U393,Photograph,Ed Sheeran,Pop,2021-05-12
+164,U471,Hello,Adele,Pop,2021-07-03
+165,U587,One Dance,Drake,Hip-Hop,2021-01-28
+166,U753,Rolling in the Deep,Adele,Pop,2021-04-29
+167,U608,Someone Like You,Adele,Pop,2021-05-31
+168,U743,Photograph,Ed Sheeran,Pop,2022-01-01
+169,U428,Don't Start Now,Dua Lipa,Pop,2021-06-25
+170,U420,Dynamite,BTS,K-Pop,2021-06-05
+171,U132,Don't Start Now,Dua Lipa,Pop,2021-02-18
+172,U250,Bad Guy,Billie Eilish,Alternative,2021-11-29
+173,U586,Permission to Dance,BTS,K-Pop,2021-08-31
+174,U172,Butter,BTS,K-Pop,2021-08-11
+175,U617,Bad Habits,Ed Sheeran,Pop,2021-05-08
+176,U682,Don't Start Now,Dua Lipa,Pop,2021-01-04
+177,U297,In My Feelings,Drake,Hip-Hop,2021-07-20
+178,U581,Hotline Bling,Drake,Hip-Hop,2021-08-24
+179,U813,Easy On Me,Adele,Pop,2021-12-18
+180,U533,Easy On Me,Adele,Pop,2021-02-02
+181,U132,Easy On Me,Adele,Pop,2021-03-02
+182,U198,Dynamite,BTS,K-Pop,2021-05-14
+183,U522,Starboy,The Weeknd,R&B,2021-05-14
+184,U194,Hello,Adele,Pop,2021-01-10
+185,U557,Permission to Dance,BTS,K-Pop,2021-11-19
+186,U733,Levitating,Dua Lipa,Pop,2021-03-08
+187,U151,Blank Space,Taylor Swift,Pop,2021-02-10
+188,U922,Rolling in the Deep,Adele,Pop,2021-11-10
+189,U924,Permission to Dance,BTS,K-Pop,2021-02-04
+190,U763,One Dance,Drake,Hip-Hop,2021-01-08
+191,U314,God's Plan,Drake,Hip-Hop,2021-07-08
+192,U904,Butter,BTS,K-Pop,2021-04-13
+193,U162,Shake It Off,Taylor Swift,Pop,2021-08-14
+194,U319,Levitating,Dua Lipa,Pop,2021-03-19
+195,U836,Love Story,Taylor Swift,Pop,2021-02-10
+196,U819,Blinding Lights,The Weeknd,R&B,2021-03-08
+197,U861,Hallucinate,Dua Lipa,Pop,2021-09-07
+198,U483,Blinding Lights,The Weeknd,R&B,2021-06-04
+199,U577,Photograph,Ed Sheeran,Pop,2021-11-01
+200,U888,Bad Guy,Billie Eilish,Alternative,2021-11-18
+201,U496,One Dance,Drake,Hip-Hop,2021-02-06
+202,U921,Love Story,Taylor Swift,Pop,2021-01-08
+203,U582,Butter,BTS,K-Pop,2021-10-26
+204,U339,Bad Guy,Billie Eilish,Alternative,2021-03-28
+205,U780,Ocean Eyes,Billie Eilish,Alternative,2021-11-24
+206,U862,Rolling in the Deep,Adele,Pop,2021-09-15
+207,U403,Butter,BTS,K-Pop,2021-12-16
+208,U972,Can't Feel My Face,The Weeknd,R&B,2021-07-24
+209,U853,Therefore I Am,Billie Eilish,Alternative,2021-02-11
+210,U191,Ocean Eyes,Billie Eilish,Alternative,2021-07-17
+211,U879,Permission to Dance,BTS,K-Pop,2021-03-02
+212,U268,One Dance,Drake,Hip-Hop,2021-07-10
+213,U936,New Rules,Dua Lipa,Pop,2021-07-26
+214,U642,Love Story,Taylor Swift,Pop,2021-09-07
+215,U190,Therefore I Am,Billie Eilish,Alternative,2021-12-23
+216,U222,Happier Than Ever,Billie Eilish,Alternative,2021-08-11
+217,U238,Dynamite,BTS,K-Pop,2021-03-20
+218,U283,Save Your Tears,The Weeknd,R&B,2021-11-12
+219,U364,Blank Space,Taylor Swift,Pop,2021-03-06
+220,U192,Don't Start Now,Dua Lipa,Pop,2021-04-03
+221,U244,Love Story,Taylor Swift,Pop,2021-12-09
+222,U838,Easy On Me,Adele,Pop,2021-05-03
+223,U108,Dynamite,BTS,K-Pop,2021-01-31
+224,U239,Someone Like You,Adele,Pop,2021-05-31
+225,U721,Save Your Tears,The Weeknd,R&B,2021-02-13
+226,U762,Butter,BTS,K-Pop,2021-01-06
+227,U271,Therefore I Am,Billie Eilish,Alternative,2021-06-04
+228,U729,God's Plan,Drake,Hip-Hop,2021-08-11
+229,U702,Perfect,Ed Sheeran,Pop,2021-04-06
+230,U299,Blinding Lights,The Weeknd,R&B,2021-12-03
+231,U749,New Rules,Dua Lipa,Pop,2021-07-22
+232,U842,Love Story,Taylor Swift,Pop,2021-02-12
+233,U189,Bad Guy,Billie Eilish,Alternative,2021-05-01
+234,U295,God's Plan,Drake,Hip-Hop,2021-11-02
+235,U498,Shake It Off,Taylor Swift,Pop,2021-12-22
+236,U100,Permission to Dance,BTS,K-Pop,2021-12-14
+237,U369,Don't Start Now,Dua Lipa,Pop,2021-02-09
+238,U493,Ocean Eyes,Billie Eilish,Alternative,2021-09-03
+239,U376,In My Feelings,Drake,Hip-Hop,2021-09-30
+240,U603,Hallucinate,Dua Lipa,Pop,2021-07-18
+241,U337,Save Your Tears,The Weeknd,R&B,2021-07-10
+242,U907,Hallucinate,Dua Lipa,Pop,2021-08-02
+243,U837,Bad Habits,Ed Sheeran,Pop,2021-07-21
+244,U512,Starboy,The Weeknd,R&B,2021-08-06
+245,U473,Rolling in the Deep,Adele,Pop,2021-11-25
+246,U323,Shape of You,Ed Sheeran,Pop,2021-03-31
+247,U172,Love Story,Taylor Swift,Pop,2021-04-02
+248,U364,God's Plan,Drake,Hip-Hop,2021-07-28
+249,U183,Hotline Bling,Drake,Hip-Hop,2021-07-28
+250,U397,Happier Than Ever,Billie Eilish,Alternative,2021-06-02
+251,U615,Hello,Adele,Pop,2021-06-09
+252,U999,Hallucinate,Dua Lipa,Pop,2021-02-21
+253,U291,Easy On Me,Adele,Pop,2021-04-10
+254,U998,New Rules,Dua Lipa,Pop,2021-11-27
+255,U572,Blinding Lights,The Weeknd,R&B,2021-08-09
+256,U827,God's Plan,Drake,Hip-Hop,2021-11-19
+257,U518,Bad Habits,Ed Sheeran,Pop,2021-04-12
+258,U756,Don't Start Now,Dua Lipa,Pop,2021-02-13
+259,U903,Ocean Eyes,Billie Eilish,Alternative,2021-09-23
+260,U380,Fake Love,BTS,K-Pop,2021-07-13
+261,U288,Perfect,Ed Sheeran,Pop,2021-12-25
+262,U885,Love Story,Taylor Swift,Pop,2021-12-06
+263,U873,Levitating,Dua Lipa,Pop,2021-07-24
+264,U251,Ocean Eyes,Billie Eilish,Alternative,2021-05-05
+265,U572,Fake Love,BTS,K-Pop,2021-03-30
+266,U340,Can't Feel My Face,The Weeknd,R&B,2021-11-24
+267,U546,Butter,BTS,K-Pop,2021-01-26
+268,U404,Someone Like You,Adele,Pop,2021-09-29
+269,U627,Rolling in the Deep,Adele,Pop,2021-03-30
+270,U717,One Dance,Drake,Hip-Hop,2021-10-28
+271,U300,Butter,BTS,K-Pop,2021-03-20
+272,U520,Levitating,Dua Lipa,Pop,2021-08-29
+273,U468,Hotline Bling,Drake,Hip-Hop,2021-03-14
+274,U423,Blank Space,Taylor Swift,Pop,2021-10-30
+275,U303,Easy On Me,Adele,Pop,2021-03-31
+276,U613,Dynamite,BTS,K-Pop,2021-03-29
+277,U805,Hotline Bling,Drake,Hip-Hop,2021-06-06
+278,U521,Bad Guy,Billie Eilish,Alternative,2021-03-16
+279,U244,Perfect,Ed Sheeran,Pop,2021-05-05
+280,U515,Bad Habits,Ed Sheeran,Pop,2021-01-16
+281,U644,Shape of You,Ed Sheeran,Pop,2021-02-11
+282,U165,Hotline Bling,Drake,Hip-Hop,2021-03-06
+283,U474,Ocean Eyes,Billie Eilish,Alternative,2021-08-11
+284,U628,Hallucinate,Dua Lipa,Pop,2021-07-04
+285,U257,Starboy,The Weeknd,R&B,2021-08-26
+286,U374,Perfect,Ed Sheeran,Pop,2021-03-25
+287,U449,Perfect,Ed Sheeran,Pop,2021-02-12
+288,U444,Starboy,The Weeknd,R&B,2021-05-16
+289,U624,Love Story,Taylor Swift,Pop,2021-10-04
+290,U591,Blinding Lights,The Weeknd,R&B,2021-06-24
+291,U528,Blank Space,Taylor Swift,Pop,2021-02-26
+292,U767,Love Story,Taylor Swift,Pop,2021-11-01
+293,U791,Shake It Off,Taylor Swift,Pop,2021-10-12
+294,U863,Easy On Me,Adele,Pop,2021-01-25
+295,U869,Easy On Me,Adele,Pop,2021-03-17
+296,U928,Cardigan,Taylor Swift,Pop,2021-08-30
+297,U710,Permission to Dance,BTS,K-Pop,2021-12-14
+298,U751,Photograph,Ed Sheeran,Pop,2021-07-01
+299,U896,Rolling in the Deep,Adele,Pop,2021-01-17
+300,U441,Hallucinate,Dua Lipa,Pop,2021-12-13
+301,U495,In My Feelings,Drake,Hip-Hop,2021-12-15
+302,U857,Hallucinate,Dua Lipa,Pop,2021-11-16
+303,U660,One Dance,Drake,Hip-Hop,2021-02-04
+304,U532,Starboy,The Weeknd,R&B,2021-06-19
+305,U520,Hello,Adele,Pop,2021-07-10
+306,U847,New Rules,Dua Lipa,Pop,2021-07-23
+307,U186,Easy On Me,Adele,Pop,2021-11-04
+308,U751,One Dance,Drake,Hip-Hop,2021-01-02
+309,U182,Hello,Adele,Pop,2021-06-06
+310,U594,Dynamite,BTS,K-Pop,2021-08-08
+311,U262,Hallucinate,Dua Lipa,Pop,2021-04-30
+312,U378,Perfect,Ed Sheeran,Pop,2021-06-27
+313,U683,Bad Guy,Billie Eilish,Alternative,2021-07-24
+314,U452,One Dance,Drake,Hip-Hop,2021-08-09
+315,U466,Perfect,Ed Sheeran,Pop,2021-12-09
+316,U590,Love Story,Taylor Swift,Pop,2021-10-25
+317,U236,Ocean Eyes,Billie Eilish,Alternative,2021-01-29
+318,U200,Bad Habits,Ed Sheeran,Pop,2021-08-02
+319,U385,Ocean Eyes,Billie Eilish,Alternative,2021-03-27
+320,U732,Dynamite,BTS,K-Pop,2021-09-21
+321,U259,Happier Than Ever,Billie Eilish,Alternative,2021-07-08
+322,U146,Blank Space,Taylor Swift,Pop,2021-11-24
+323,U310,Hallucinate,Dua Lipa,Pop,2021-12-03
+324,U538,Don't Start Now,Dua Lipa,Pop,2021-04-30
+325,U771,Save Your Tears,The Weeknd,R&B,2021-08-19
+326,U298,Hotline Bling,Drake,Hip-Hop,2021-11-09
+327,U158,Fake Love,BTS,K-Pop,2021-02-11
+328,U283,Photograph,Ed Sheeran,Pop,2021-04-23
+329,U768,Can't Feel My Face,The Weeknd,R&B,2021-02-16
+330,U628,Ocean Eyes,Billie Eilish,Alternative,2021-06-10
+331,U565,Perfect,Ed Sheeran,Pop,2021-11-25
+332,U589,Dynamite,BTS,K-Pop,2021-01-19
+333,U395,Hotline Bling,Drake,Hip-Hop,2021-01-17
+334,U101,Happier Than Ever,Billie Eilish,Alternative,2021-03-26
+335,U220,Can't Feel My Face,The Weeknd,R&B,2021-05-22
+336,U357,Butter,BTS,K-Pop,2021-09-05
+337,U420,Happier Than Ever,Billie Eilish,Alternative,2021-05-20
+338,U789,Can't Feel My Face,The Weeknd,R&B,2021-03-05
+339,U439,Blank Space,Taylor Swift,Pop,2021-03-10
+340,U987,Permission to Dance,BTS,K-Pop,2021-02-11
+341,U163,Butter,BTS,K-Pop,2021-04-27
+342,U136,God's Plan,Drake,Hip-Hop,2021-12-14
+343,U342,Hello,Adele,Pop,2021-07-12
+344,U548,Blank Space,Taylor Swift,Pop,2021-02-07
+345,U208,Dynamite,BTS,K-Pop,2021-09-12
+346,U289,Hotline Bling,Drake,Hip-Hop,2021-03-10
+347,U134,Someone Like You,Adele,Pop,2021-08-04
+348,U416,One Dance,Drake,Hip-Hop,2021-08-15
+349,U439,Bad Guy,Billie Eilish,Alternative,2021-10-15
+350,U878,Love Story,Taylor Swift,Pop,2021-06-26
+351,U642,Hello,Adele,Pop,2021-12-18
+352,U445,Rolling in the Deep,Adele,Pop,2021-09-03
+353,U835,Starboy,The Weeknd,R&B,2021-09-10
+354,U174,Hello,Adele,Pop,2021-12-25
+355,U492,In My Feelings,Drake,Hip-Hop,2021-11-25
+356,U936,Photograph,Ed Sheeran,Pop,2021-08-28
+357,U911,Starboy,The Weeknd,R&B,2021-07-17
+358,U933,Blinding Lights,The Weeknd,R&B,2021-02-12
+359,U820,Hello,Adele,Pop,2021-02-03
+360,U640,Therefore I Am,Billie Eilish,Alternative,2021-05-12
+361,U490,Someone Like You,Adele,Pop,2021-06-21
+362,U657,Rolling in the Deep,Adele,Pop,2021-12-07
+363,U364,Blinding Lights,The Weeknd,R&B,2021-05-26
+364,U725,Hotline Bling,Drake,Hip-Hop,2021-12-07
+365,U764,Shape of You,Ed Sheeran,Pop,2021-11-07
+366,U292,Love Story,Taylor Swift,Pop,2021-01-31
+367,U540,Levitating,Dua Lipa,Pop,2021-01-03
+368,U853,Easy On Me,Adele,Pop,2021-10-27
+369,U356,Love Story,Taylor Swift,Pop,2021-01-15
+370,U190,New Rules,Dua Lipa,Pop,2021-03-18
+371,U541,God's Plan,Drake,Hip-Hop,2021-01-13
+372,U714,Dynamite,BTS,K-Pop,2021-08-30
+373,U568,Bad Habits,Ed Sheeran,Pop,2021-05-06
+374,U725,New Rules,Dua Lipa,Pop,2021-05-18
+375,U790,Someone Like You,Adele,Pop,2021-01-27
+376,U309,Fake Love,BTS,K-Pop,2021-12-08
+377,U536,Hallucinate,Dua Lipa,Pop,2021-12-07
+378,U847,New Rules,Dua Lipa,Pop,2021-12-17
+379,U883,Cardigan,Taylor Swift,Pop,2021-06-11
+380,U137,Don't Start Now,Dua Lipa,Pop,2021-07-16
+381,U315,Can't Feel My Face,The Weeknd,R&B,2021-07-25
+382,U832,Shape of You,Ed Sheeran,Pop,2021-10-22
+383,U820,Hotline Bling,Drake,Hip-Hop,2021-09-25
+384,U510,Save Your Tears,The Weeknd,R&B,2021-04-17
+385,U796,Permission to Dance,BTS,K-Pop,2021-03-05
+386,U335,Dynamite,BTS,K-Pop,2021-11-12
+387,U962,Can't Feel My Face,The Weeknd,R&B,2021-07-12
+388,U606,Dynamite,BTS,K-Pop,2021-03-30
+389,U799,Don't Start Now,Dua Lipa,Pop,2021-04-22
+390,U385,Love Story,Taylor Swift,Pop,2021-02-13
+391,U519,One Dance,Drake,Hip-Hop,2021-12-21
+392,U110,Rolling in the Deep,Adele,Pop,2021-10-03
+393,U813,Bad Habits,Ed Sheeran,Pop,2021-07-13
+394,U677,Cardigan,Taylor Swift,Pop,2021-04-12
+395,U648,Bad Guy,Billie Eilish,Alternative,2021-11-03
+396,U792,Ocean Eyes,Billie Eilish,Alternative,2021-08-23
+397,U196,Don't Start Now,Dua Lipa,Pop,2021-01-09
+398,U683,One Dance,Drake,Hip-Hop,2021-06-14
+399,U640,Rolling in the Deep,Adele,Pop,2021-04-06
+400,U941,New Rules,Dua Lipa,Pop,2021-02-04
+401,U879,In My Feelings,Drake,Hip-Hop,2021-07-09
+402,U893,Hotline Bling,Drake,Hip-Hop,2021-10-30
+403,U517,Easy On Me,Adele,Pop,2021-06-15
+404,U791,God's Plan,Drake,Hip-Hop,2021-02-28
+405,U940,Bad Habits,Ed Sheeran,Pop,2021-10-25
+406,U379,Dynamite,BTS,K-Pop,2021-08-12
+407,U209,Hello,Adele,Pop,2021-02-06
+408,U227,Starboy,The Weeknd,R&B,2021-05-22
+409,U428,Hallucinate,Dua Lipa,Pop,2021-11-24
+410,U821,Blinding Lights,The Weeknd,R&B,2021-12-21
+411,U845,Rolling in the Deep,Adele,Pop,2021-08-18
+412,U121,Don't Start Now,Dua Lipa,Pop,2021-12-20
+413,U343,Fake Love,BTS,K-Pop,2021-05-14
+414,U195,Photograph,Ed Sheeran,Pop,2021-07-30
+415,U631,Levitating,Dua Lipa,Pop,2021-11-18
+416,U897,Shake It Off,Taylor Swift,Pop,2021-05-25
+417,U835,Hallucinate,Dua Lipa,Pop,2021-06-14
+418,U311,Cardigan,Taylor Swift,Pop,2021-08-03
+419,U388,Can't Feel My Face,The Weeknd,R&B,2021-07-25
+420,U545,Bad Guy,Billie Eilish,Alternative,2021-06-06
+421,U309,Therefore I Am,Billie Eilish,Alternative,2021-03-10
+422,U337,Love Story,Taylor Swift,Pop,2021-08-01
+423,U416,Happier Than Ever,Billie Eilish,Alternative,2021-11-08
+424,U554,Shape of You,Ed Sheeran,Pop,2021-02-04
+425,U815,One Dance,Drake,Hip-Hop,2021-07-15
+426,U456,Hallucinate,Dua Lipa,Pop,2021-05-13
+427,U627,Perfect,Ed Sheeran,Pop,2021-09-17
+428,U199,Ocean Eyes,Billie Eilish,Alternative,2021-12-14
+429,U324,Someone Like You,Adele,Pop,2021-01-19
+430,U623,One Dance,Drake,Hip-Hop,2021-08-12
+431,U664,Dynamite,BTS,K-Pop,2021-03-09
+432,U807,Starboy,The Weeknd,R&B,2021-04-07
+433,U895,One Dance,Drake,Hip-Hop,2021-06-11
+434,U152,Happier Than Ever,Billie Eilish,Alternative,2021-01-22
+435,U464,Shape of You,Ed Sheeran,Pop,2021-04-13
+436,U921,Photograph,Ed Sheeran,Pop,2021-11-15
+437,U794,Ocean Eyes,Billie Eilish,Alternative,2021-10-31
+438,U510,Hotline Bling,Drake,Hip-Hop,2021-01-30
+439,U883,Permission to Dance,BTS,K-Pop,2021-07-11
+440,U381,Hallucinate,Dua Lipa,Pop,2021-12-23
+441,U256,Someone Like You,Adele,Pop,2021-07-05
+442,U304,Can't Feel My Face,The Weeknd,R&B,2021-07-12
+443,U457,Someone Like You,Adele,Pop,2021-09-19
+444,U440,Someone Like You,Adele,Pop,2021-08-08
+445,U705,Cardigan,Taylor Swift,Pop,2021-04-22
+446,U163,Hotline Bling,Drake,Hip-Hop,2021-12-23
+447,U797,Dynamite,BTS,K-Pop,2021-08-04
+448,U298,Shake It Off,Taylor Swift,Pop,2021-01-28
+449,U982,Butter,BTS,K-Pop,2021-12-18
+450,U633,New Rules,Dua Lipa,Pop,2021-08-04
+451,U221,Love Story,Taylor Swift,Pop,2021-10-21
+452,U704,Hallucinate,Dua Lipa,Pop,2021-01-02
+453,U487,Bad Guy,Billie Eilish,Alternative,2021-07-05
+454,U649,Ocean Eyes,Billie Eilish,Alternative,2021-06-29
+455,U726,Perfect,Ed Sheeran,Pop,2021-09-21
+456,U550,In My Feelings,Drake,Hip-Hop,2021-03-06
+457,U664,Shape of You,Ed Sheeran,Pop,2021-12-31
+458,U713,Rolling in the Deep,Adele,Pop,2021-04-18
+459,U914,Shape of You,Ed Sheeran,Pop,2021-04-29
+460,U259,One Dance,Drake,Hip-Hop,2021-10-13
+461,U473,Dynamite,BTS,K-Pop,2021-03-05
+462,U987,Starboy,The Weeknd,R&B,2021-01-21
+463,U387,Starboy,The Weeknd,R&B,2021-06-22
+464,U189,Shape of You,Ed Sheeran,Pop,2021-08-30
+465,U269,Someone Like You,Adele,Pop,2021-05-11
+466,U625,Permission to Dance,BTS,K-Pop,2021-03-01
+467,U963,God's Plan,Drake,Hip-Hop,2021-08-15
+468,U685,Someone Like You,Adele,Pop,2021-01-21
+469,U876,Shape of You,Ed Sheeran,Pop,2021-11-30
+470,U124,Bad Guy,Billie Eilish,Alternative,2021-10-05
+471,U594,New Rules,Dua Lipa,Pop,2021-11-06
+472,U996,Dynamite,BTS,K-Pop,2021-10-28
+473,U544,One Dance,Drake,Hip-Hop,2021-03-20
+474,U930,Easy On Me,Adele,Pop,2021-10-17
+475,U589,Blank Space,Taylor Swift,Pop,2021-05-31
+476,U268,Bad Habits,Ed Sheeran,Pop,2021-08-31
+477,U870,Therefore I Am,Billie Eilish,Alternative,2021-10-15
+478,U884,Can't Feel My Face,The Weeknd,R&B,2021-05-26
+479,U791,Blinding Lights,The Weeknd,R&B,2021-09-03
+480,U466,One Dance,Drake,Hip-Hop,2021-09-17
+481,U131,Happier Than Ever,Billie Eilish,Alternative,2021-11-19
+482,U822,In My Feelings,Drake,Hip-Hop,2021-11-04
+483,U435,Cardigan,Taylor Swift,Pop,2021-03-15
+484,U415,Hello,Adele,Pop,2021-06-25
+485,U478,Blank Space,Taylor Swift,Pop,2021-06-20
+486,U754,Dynamite,BTS,K-Pop,2021-10-16
+487,U865,New Rules,Dua Lipa,Pop,2021-11-25
+488,U948,Don't Start Now,Dua Lipa,Pop,2021-07-27
+489,U241,Starboy,The Weeknd,R&B,2021-04-16
+490,U182,Photograph,Ed Sheeran,Pop,2021-04-13
+491,U444,Blank Space,Taylor Swift,Pop,2021-03-30
+492,U280,God's Plan,Drake,Hip-Hop,2021-11-25
+493,U746,Save Your Tears,The Weeknd,R&B,2021-06-03
+494,U190,New Rules,Dua Lipa,Pop,2021-02-02
+495,U760,Dynamite,BTS,K-Pop,2021-07-20
+496,U286,Levitating,Dua Lipa,Pop,2021-05-30
+497,U565,Hotline Bling,Drake,Hip-Hop,2021-08-28
+498,U477,Hello,Adele,Pop,2021-07-25
+499,U784,Hotline Bling,Drake,Hip-Hop,2021-09-30
+500,U868,God's Plan,Drake,Hip-Hop,2021-07-13
