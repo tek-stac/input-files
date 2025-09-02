@@ -1,6 +1,6 @@
-id,message
-1,Pipeline handles data with Spark
-2,Batch handles data using clusters
-3,Spark streams data using clusters
-4,Streaming processes data efficiently
-5,Analytics analyzes data using clusters
+message
+Pipeline handles data with Spark
+Batch handles data using clusters
+Spark streams data using clusters
+Streaming processes data efficiently
+Analytics analyzes data using clusters
