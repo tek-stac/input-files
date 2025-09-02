@@ -1,4 +1,3 @@
-message
 Pipeline handles data with Spark
 Batch handles data using clusters
 Spark streams data using clusters
